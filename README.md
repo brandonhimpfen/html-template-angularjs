@@ -1,5 +1,6 @@
 HTML AngularJS Template
 =======================
+**Donate** to this project using [PayPal](https://go.himpfen.com/1j)
 
 Examples
 --------
