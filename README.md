@@ -1,6 +1,7 @@
 HTML AngularJS Template
 =======================
-**Donate** to this project using [PayPal](https://go.himpfen.com/1j)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/brandonhimpfen)
 
 Examples
 --------
